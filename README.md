@@ -103,6 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Aditya Patil - [@AdityaP700](https://github.com/AdityaP700)
+Aditya Pattanayak - [@AdityaP700](https://github.com/AdityaP700)
 
 Project Link: [https://github.com/AdityaP700/Avelo](https://github.com/AdityaP700/Avelo)
