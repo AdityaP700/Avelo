@@ -1,8 +1,8 @@
-# Bolt - Modern Dropshipping Platform
+# Avelo - Modern Dropshipping Platform
 
-A modern, open-source dropshipping platform built with React, TypeScript, and Tailwind CSS. Bolt provides a seamless experience for creating and managing your dropshipping business.
+A modern, open-source dropshipping platform built with React, TypeScript, and Tailwind CSS. Avelo provides a seamless experience for creating and managing your dropshipping business.
 
-![Bolt Platform](https://raw.githubusercontent.com/yourusername/bolt/main/preview.png)
+![Avelo Platform](https://raw.githubusercontent.com/AdityaP700/Avelo/main/preview.png)
 
 ## 🚀 Features
 
@@ -30,8 +30,8 @@ A modern, open-source dropshipping platform built with React, TypeScript, and Ta
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bolt.git
-   cd bolt
+   git clone https://github.com/AdityaP700/Avelo.git
+   cd avelo
    ```
 
 2. **Install dependencies**
@@ -52,7 +52,7 @@ A modern, open-source dropshipping platform built with React, TypeScript, and Ta
 ## 🏗️ Project Structure
 
 ```
-bolt/
+avelo/
 ├── src/
 │   ├── components/         # React components
 │   ├── store/             # Redux store configuration
@@ -103,6 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Aditya Patil - [@AdityaP700](https://github.com/AdityaP700)
 
-Project Link: [https://github.com/yourusername/bolt](https://github.com/yourusername/bolt)
+Project Link: [https://github.com/AdityaP700/Avelo](https://github.com/AdityaP700/Avelo)
